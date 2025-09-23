@@ -1,16 +1,13 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут [Ваше Имя]
 
-<!--
-**AMGolovina/AMGolovina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
+- 💻 Разработчик/Студент/и т.д.
+- 🌱 Изучаю [технологии]
+- 📫 Как связаться: [email или соцсети]
 
-Here are some ideas to get you started:
+## Мои навыки
+- Языки программирования: Python, JavaScript, etc.
+- Инструменты: Git, VS Code, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои проекты
+- [Название проекта](ссылка) - Описание
