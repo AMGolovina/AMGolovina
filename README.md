@@ -8,5 +8,3 @@
 ## Мои навыки
 - Языки программирования: Python, C++, C#
 - Инструменты: Git, VS Code, API, etc.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMGolovina)](https://github.com/anuraghazra/github-readme-stats)
